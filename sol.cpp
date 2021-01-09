@@ -17,7 +17,7 @@ int main() {
 			// just print 1
 			cout << 1;
 		} else {
-			// if l != rm then there are infinite number of distinct values between the given interval
+			// if l != r, then there are infinite number of distinct values between the given interval
 			cout << k;
 		}
 		cout << '\n';
