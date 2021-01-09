@@ -11,7 +11,7 @@ int main() {
 		int l, r, k;
 		cin >> l >> r >> k;
 		// just imagine a number line
-		// look at the image in the repository for better understanding
+		// look at the image in this repository for better understanding
 		if (l == r) {
 			// if l == r, then there are no infinite number of distinct values between the given interval
 			// just print 1
